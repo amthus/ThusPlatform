@@ -53,3 +53,5 @@ src/
 - Styled with Tailwind CSS
 - State management with Context API
 - Mobile-first responsive design
+
+  Fait par **Malthus AMETEPE**
